@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **courses**
 
-- 👯 I’m looking to collaborate on **C**
+- 👯 I’m looking to collaborate on **C++**
 
-- 🤝 I’m looking for help with **C**
+- 🤝 I’m looking for help with **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
