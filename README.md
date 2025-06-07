@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from tunisia India</h3>
+<h3 align="center">A passionate frontend developer from tunisia </h3>
 
 - 🔭 I’m currently working on **enit**
 
