@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Iheb!
 
 ## 🎓 About Me
 **Electrical Engineering** student at the National School of Engineers of Tunis (ENIT), passionate about **robotics**, **embedded systems**, and **artificial intelligence**.
