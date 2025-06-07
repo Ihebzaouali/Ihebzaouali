@@ -32,10 +32,6 @@
 - 🏭 **Enova Robotics Internship**: Programming LED control systems for AMR robots
 - 🎯 **Academic Projects**: Autonomous mobile robots, SLAM navigation systems
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
 ## 🌱 Currently Learning
 - Deep Learning for computer vision
 - Distributed systems in robotics
@@ -50,7 +46,7 @@
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iheb-zaouali-673974352)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iheb.zaouali@etudiant-enit.utm.tn)
 
 ## 🎯 Goals 2024-2025
 - 🚀 Land an engineering internship at an innovative tech company
