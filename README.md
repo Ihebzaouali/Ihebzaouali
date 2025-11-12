@@ -28,8 +28,8 @@
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)
 
 ## 🏆 Achievements
-- 🥇 **PFA 2024**: EMG-controlled integrated prosthesis with ML classification (90%+ accuracy)
-- 🏭 **Enova Robotics Internship**: Programming LED control systems for AMR robots
+- 🥇 **PFA 2024**: EMG-controlled integrated prosthesis with ML classification 
+- 🏭 **Internships**: Programming LED control systems for AMR robots / Development of an intelligent robot for automated monitoring of photovoltaic installations
 - 🎯 **Academic Projects**: Autonomous mobile robots, SLAM navigation systems
 
 ## 🌱 Currently Learning
@@ -41,18 +41,16 @@
 ## 💡 Interests
 - 🤖 **Mobile Robotics** and autonomous systems
 - 🧠 **Artificial Intelligence** applied to robotics
-- 🔬 **Biomedical** and assistive technologies
 - 🏭 **Industry 4.0** and automation
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iheb-zaouali-673974352)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iheb.zaouali@etudiant-enit.utm.tn)
 
-## 🎯 Goals 2024-2025
+## 🎯 Goals 2025-2026
 - 🚀 Land an engineering internship at an innovative tech company
-- 📚 Deepen my knowledge in Deep Learning
+- 📚 Deepen my knowledge in autonomous naviguation
 - 🤝 Contribute to open source robotics projects
-- 🏆 Participate in robotics competitions
 
 ---
 ⭐️ *"Robotics is about bringing our ideas to life and creating a better future"*
