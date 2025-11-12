@@ -4,9 +4,9 @@ f st# 👋 Hi, I'm Iheb!
 **Electrical Engineering** student at the National School of Engineers of Tunis (ENIT), passionate about **robotics**, **embedded systems**, and **artificial intelligence**.
 
 ## 🔭 Current Projects
-- 🦾 **Myoelectric Prosthesis**: Developing an EMG-controlled prosthetic hand with machine learning (SVM)
-- 🤖 **Mobile Robotics**: Working on autonomous navigation systems and AMR robot control
-- 🧠 **Machine Learning**: Applying AI to movement classification and signal processing
+- 🦾 **Swarm of Autonomous Mobile Robots**: Implementation of autonomous navigation and obstacle avoidance algorithms
+- 🤖 **Development of a computer vision system to assist visually impaired individuals in indoor navigation**: Design and implement a computer vision system for real-time obstacle detection and path guidance to assist visually impaired people in indoor navigation
+- 🧠 **Digital Control of a Self-Balancing Mobile Robot**: Dynamic balance control using LQR regulation, inertial sensor fusion (IMU) via Kalman filter, trajectory tracking with sliding mode control, Matlab/Simulink modeling, real-time implementation on STM32
 
 ## 💻 Tech Stack
 **Languages:**
