@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Iheb!
+f st# 👋 Hi, I'm Iheb!
 
 ## 🎓 About Me
 **Electrical Engineering** student at the National School of Engineers of Tunis (ENIT), passionate about **robotics**, **embedded systems**, and **artificial intelligence**.
@@ -48,7 +48,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iheb.zaouali@etudiant-enit.utm.tn)
 
 ## 🎯 Goals 2025-2026
-- 🚀 Land an engineering internship at an innovative tech company
+- 🚀 Land an engineering end of studies internship at an innovative tech company
 - 📚 Deepen my knowledge in autonomous naviguation
 - 🤝 Contribute to open source robotics projects
 
