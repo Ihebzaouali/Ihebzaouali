@@ -29,9 +29,7 @@ f st# 👋 Hi, I'm Iheb!
 
 ## 🏆 Achievements
 - 🥇 **PFA 2024**: EMG-controlled integrated prosthesis with ML classification 
-- 🏭 **Internships**: 
-*Programming LED control systems for AMR robots
-*Development of an intelligent robot for automated monitoring of photovoltaic installations
+- 🏭 **Internships**: 1-Programming LED control systems for AMR robots/2-Development of an intelligent robot for automated monitoring of photovoltaic installations
 - 🎯 **Academic Projects**: Autonomous mobile robots, SLAM navigation systems
 
 ## 🌱 Currently Learning
