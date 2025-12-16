@@ -6,7 +6,6 @@ f st# 👋 Hi, I'm Iheb!
 ## 🔭 Current Projects
 - 🦾 **Swarm of Autonomous Mobile Robots**: Implementation of autonomous navigation and obstacle avoidance algorithms
 - 🤖 **Development of a computer vision system to assist visually impaired individuals in indoor navigation**: Design and implement a computer vision system for real-time obstacle detection and path guidance to assist visually impaired people in indoor navigation
-- 🧠 **Digital Control of a Self-Balancing Mobile Robot**: Dynamic balance control using LQR regulation, inertial sensor fusion (IMU) via Kalman filter, trajectory tracking with sliding mode control, Matlab/Simulink modeling, real-time implementation on STM32
 
 ## 💻 Tech Stack
 **Languages:**
@@ -30,7 +29,7 @@ f st# 👋 Hi, I'm Iheb!
 ## 🏆 Achievements
 - 🥇 **PFA 2024**: EMG-controlled integrated prosthesis with ML classification 
 - 🏭 **Internships**: 1-Programming LED control systems for AMR robots/2-Development of an intelligent robot for automated monitoring of photovoltaic installations
-- 🎯 **Academic Projects**: Autonomous mobile robots, SLAM navigation systems
+- 🎯 **Academic Projects**: Autonomous mobile robots, SLAM navigation systems, Digital Control of a Self-Balancing Mobile Robot
 
 ## 🌱 Currently Learning
 - Deep Learning for computer vision
