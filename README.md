@@ -32,7 +32,7 @@ f st# 👋 Hi, I'm Iheb!
 - 🎯 **Academic Projects**: Autonomous mobile robots, SLAM navigation systems, Digital Control of a Self-Balancing Mobile Robot
 
 ## 🌱 Currently Learning
-- Deep Learning for computer vision
+- Reinforcement learning
 - Distributed systems in robotics
 - Embedded algorithm optimization
 - Advanced ROS2 and Navigation Stack
